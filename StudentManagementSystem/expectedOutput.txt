@@ -1,0 +1,104 @@
+------ Implemented object-oriented programming (OOP) concepts to build a student management system in Java ---------
+
+"C:\Program Files\Java\jdk-24\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1\lib\idea_rt.jar=50877" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\shikh\Desktop\DSA Practice\Java\StudentManagementSystem\out\production\StudentManagementSystem" Main
+
+--- Student Management System ---
+1. Add Student
+2. Remove Student
+3. View Student
+4. View All Students
+5. Exit
+Choose an option: 1
+Enter Student ID: 001
+Enter Name: Shikhar Sharma
+Enter Age: 22
+Enter Course: Data Science
+Student added successfully!
+
+--- Student Management System ---
+1. Add Student
+2. Remove Student
+3. View Student
+4. View All Students
+5. Exit
+Choose an option: 1
+Enter Student ID: 002
+Enter Name: Alistair Cook
+Enter Age: 21
+Enter Course: Computer Science
+Student added successfully!
+
+--- Student Management System ---
+1. Add Student
+2. Remove Student
+3. View Student
+4. View All Students
+5. Exit
+Choose an option: 3
+Enter Student ID to view: 002
+ID: 002, Name: Alistair Cook, Age: 21, Course: Computer Science
+
+--- Student Management System ---
+1. Add Student
+2. Remove Student
+3. View Student
+4. View All Students
+5. Exit
+Choose an option: 4
+ID: 001, Name: Shikhar Sharma, Age: 22, Course: Data Science
+ID: 002, Name: Alistair Cook, Age: 21, Course: Computer Science
+
+--- Student Management System ---
+1. Add Student
+2. Remove Student
+3. View Student
+4. View All Students
+5. Exit
+Choose an option: 1
+Enter Student ID: 003
+Enter Name: Dharmendra Ojha
+Enter Age: 24
+Enter Course: ECE
+Student added successfully!
+
+--- Student Management System ---
+1. Add Student
+2. Remove Student
+3. View Student
+4. View All Students
+5. Exit
+Choose an option: 4
+ID: 001, Name: Shikhar Sharma, Age: 22, Course: Data Science
+ID: 002, Name: Alistair Cook, Age: 21, Course: Computer Science
+ID: 003, Name: Dharmendra Ojha, Age: 24, Course: ECE
+
+--- Student Management System ---
+1. Add Student
+2. Remove Student
+3. View Student
+4. View All Students
+5. Exit
+Choose an option: 2
+Enter Student ID to remove: 002
+Student removed if ID was found.
+
+--- Student Management System ---
+1. Add Student
+2. Remove Student
+3. View Student
+4. View All Students
+5. Exit
+Choose an option: 4
+ID: 001, Name: Shikhar Sharma, Age: 22, Course: Data Science
+ID: 003, Name: Dharmendra Ojha, Age: 24, Course: ECE
+
+--- Student Management System ---
+1. Add Student
+2. Remove Student
+3. View Student
+4. View All Students
+5. Exit
+Choose an option: 5
+Exiting system. Goodbye!
+
+Process finished with exit code 0
